@@ -73,10 +73,10 @@ Aspiring Data Scientist | Power BI Enthusiast
 ## 📷 Dashboard Preview
 
 ### Dashboard View 1  
-![Dashboard 1](./images/dashboard_1.png)
+![Dashboard 1](./dashboard_1.png)
 
 ### Dashboard View 2  
-![Dashboard 2](./images/dashboard_2.png)
+![Dashboard 2](./dashboard_2.png)
 
 ---
 
